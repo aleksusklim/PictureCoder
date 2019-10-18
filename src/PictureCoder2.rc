@@ -1,0 +1,8 @@
+
+#define PRODUCT_NAME  "PictureCoder2"
+#define VERSION_MAJOR 2
+#define VERSION_MINOR 0
+//#define PRODUCT_ISDLL 1
+
+#include "versioninfo.h"
+DONE
